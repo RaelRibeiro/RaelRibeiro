@@ -43,6 +43,7 @@ A retro space shooter built with **HTML, CSS, and JavaScript**.
 - Score system  
 
 🎮 [Play Online](https://raelribeiro.github.io/space-shooter/)
+
 👉 [Source Code](https://github.com/RaelRibeiro/space-shooter)
 
 ---
