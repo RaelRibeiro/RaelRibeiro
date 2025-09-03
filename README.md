@@ -34,13 +34,15 @@ A classic arcade game with a modern twist:
 
 ---
 
-### 🌐 **Space Shooter (JavaScript + Canvas)**
-A browser-based 2D shooter made with **HTML5 Canvas and JavaScript**:  
-- Player movement & shooting  
-- Enemy AI and collision detection  
-- Responsive design
+### 🌌 **Space Shooter (JavaScript)**
+A retro space shooter built with **HTML, CSS, and JavaScript**.  
+🎯 Features:  
+- Mouse & keyboard controls  
+- Enemy AI  
+- Collision detection  
+- Score system  
 
-👉 [Play Live Demo](https://raelribeiro.github.io/space-shooter)  
+🎮 [Play Online](https://raelribeiro.github.io/space-shooter)  
 👉 [Source Code](https://github.com/RaelRibeiro/space-shooter)
 
 ---
