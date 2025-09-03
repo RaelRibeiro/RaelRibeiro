@@ -42,7 +42,7 @@ A retro space shooter built with **HTML, CSS, and JavaScript**.
 - Collision detection  
 - Score system  
 
-🎮 [Play Online](https://raelribeiro.github.io/space-shooter)  
+🎮 [Play Online](https://github.com/RaelRibeiro/space-shooter/index.html)  
 👉 [Source Code](https://github.com/RaelRibeiro/space-shooter)
 
 ---
