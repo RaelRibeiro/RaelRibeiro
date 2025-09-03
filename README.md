@@ -11,7 +11,7 @@ This is my digital **overworld**: a mix of creativity, logic, and endless curios
 
 ## 🧱 Who Am I?
 
-- 🎮 **Minecraft Developer** since 2015 — crafting experiences in JSON, add-ons, and PMMP  
+- 🎮 **Minecraft Developer** since 2023 — crafting experiences in JSON, add-ons, and PMMP  
 - 💻 **Full-stack learner** working with **HTML, CSS, Bootstrap, JS, PHP, Python & Java**  
 - 🕹️ **Game Developer** creating small but fun games from scratch  
 - 🛠️ Passionate about turning ideas into playable, usable, and beautiful things  
