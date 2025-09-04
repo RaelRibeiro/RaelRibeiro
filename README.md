@@ -1,6 +1,6 @@
 # 🌱 Welcome to My World 🌍
 
-> *"In a world of blocks and code, I build bridges between imagination and reality."*
+> *"I love my girlfriend, my wife, Andressa."*
 
 Hi there 👋!  
 I'm **Rael Ribeiro**, a young developer who started in the **Minecraft universe** and evolved into a **multi-skill creator** — building websites, tools, plugins, and even **original games**.
