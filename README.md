@@ -1,6 +1,6 @@
 # 🌱 Welcome to My World 🌍
 
-> *"I love my girlfriend, my wife, Andressa."*
+> <mark>*"I love my girlfriend, my wife, Andressa."*</mark>
 
 Hi there 👋!  
 I'm **Rael Ribeiro**, a young developer who started in the **Minecraft universe** and evolved into a **multi-skill creator** — building websites, tools, plugins, and even **original games**.
@@ -137,7 +137,7 @@ If you're into **coding**, **game dev**, **Minecraft**, or just building cool st
 
 ---
 
-> _"She is my inspiration, my world, without her I would be nothing. Love you baby!"_  
+> <mark>_“She is my inspiration, my world, without her I would be nothing. Love you baby!”_</mark>  
 > — Rael Ribeiro, 2025
 
 ---
