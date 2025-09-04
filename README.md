@@ -137,7 +137,7 @@ If you're into **coding**, **game dev**, **Minecraft**, or just building cool st
 
 ---
 
-> _"Every great story starts with a single block."_  
+> _"She is my inspiration, my world, without her I would be nothing. Love you baby!"_  
 > — Rael Ribeiro, 2025
 
 ---
