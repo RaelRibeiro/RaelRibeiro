@@ -132,8 +132,8 @@ Now? I’m building **my future**, one project at a time.
 If you're into **coding**, **game dev**, **Minecraft**, or just building cool stuff — let’s talk!
 
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raelribeiro1004@gmail.com) <br>
-[![lipe.11](https://img.shields.io/badge/lipe.11-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lipe.11) <br>
-[![GitHub](https://img.shields.io/badge/GitHub-@seu_usuario-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaelRibeiro)
+[![Discord](https://img.shields.io/badge/Discord-lipe.11-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lipe.11) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-@RaelRibeiro-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaelRibeiro)
 
 ---
 
