@@ -77,7 +77,7 @@ My first responsive website — built with **HTML, CSS, Bootstrap and JavaScript
 - Mobile-first layout  
 - Interactive elements
 
-👉 [Live Demo](https://raelribeiro.github.io/my-website)
+👉 [Not Uploaded Yet](https://github.com/RaelRibeiro)
 
 ---
 
@@ -95,7 +95,7 @@ Small but powerful scripts made with **Python**:
 - Text-to-speech converter  
 - Simple calculator with GUI (Tkinter)
 
-👉 [Check on GitHub](https://github.com/RaelRibeiro/python-tools)
+👉 [Not Uploaded Yet](https://github.com/RaelRibeiro)
 
 ---
 
@@ -120,7 +120,7 @@ Now? I’m building **my future**, one project at a time.
 | **PHP**        | ✅ Server-side logic, PMMP plugins |
 | **Python**     | ✅ Scripts, games (Pygame), automation |
 | **Java**       | ✅ Learning OOP and desktop apps |
-| **Game Dev**   | 🕹️ Pygame, Canvas, PMMP mini-games |
+| **Game Dev**   | 🕹️ Pygame, Canvas, PMMP mini-games, Godot, Unreal Engine 5 |
 | **Git & GitHub** | ✅ Daily workflow |
 | **Problem Solving** | 🧠 Always breaking down challenges |
 | **Creativity** | 🌟 Turning ideas into reality |
@@ -131,7 +131,9 @@ Now? I’m building **my future**, one project at a time.
 
 If you're into **coding**, **game dev**, **Minecraft**, or just building cool stuff — let’s talk!
 
-📧 [Email me](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTLGNbvwDtcvJHMhrbmVnrxLPXPHLwxMsMbJljWGTGGzmwmhfwcxdZglNWJTKgZCZFDlDV) | 🐱 [Discord: lipe.11] | 🌐 [Follow on GitHub](https://github.com/RaelRibeiro)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raelribeiro1004@gmail.com) <br>
+[![lipe.11](https://img.shields.io/badge/lipe.11-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lipe.11) <br>
+[![GitHub](https://img.shields.io/badge/GitHub-@seu_usuario-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RaelRibeiro)
 
 ---
 
