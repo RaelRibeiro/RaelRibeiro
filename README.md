@@ -139,6 +139,10 @@ If you're into **coding**, **game dev**, **Minecraft**, or just building cool st
 
 ---
 
+![Rael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaelRibeiro&show_icons=true&hide_title=true&bg_color=00000000&text_color=ffffff&icon_color=ff5733)
+
+---
+
 > <mark>_“She is my inspiration, my world, without her I would be nothing. Love you baby!”_</mark>  
 > — Rael Ribeiro, 2025
 
