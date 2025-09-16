@@ -1,5 +1,7 @@
 # 🌱 Welcome to My World 🌍
 
+<center><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazFsbTduZWR5YzNwNXZvcGdkbnYzcWM1amFpZWlwODRpdHJ3c3kwNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" width="200"></center>
+
 > <mark>*"I love my girlfriend, my wife, Andressa."*</mark>
 
 Hi there 👋!  
