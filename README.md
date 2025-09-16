@@ -139,7 +139,8 @@ If you're into **coding**, **game dev**, **Minecraft**, or just building cool st
 
 ---
 
-![Rael's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaelRibeiro&show_icons=true&hide_title=true&bg_color=00000000&text_color=ffffff&icon_color=ff5733)
+![RaelRibeiro's Stats](https://github-readme-stats.vercel.app/api?username=RaelRibeiro&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![RaelRibeiro's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaelRibeiro&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
