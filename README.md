@@ -1,51 +1,126 @@
-# Rael Ribeiro
+# Hi, I'm Rael Ribeiro 👋
 
-### Software Developer | Backend & Full Stack
+### Software Developer | Backend & Full Stack Development
 
-Software Developer with **4+ years of hands-on experience** building backend systems, APIs, and database-driven applications. Experienced in PHP, MySQL, Redis, and system integration, with additional experience in Android and web development using Kotlin, React, Next.js, and TypeScript.
+I'm a Software Developer with over 6 years of hands-on experience building software solutions, backend systems, APIs, and web applications.
 
-Currently pursuing a Bachelor's Degree in Software Engineering at Estácio, continuously expanding my knowledge and building solutions to real-world problems.
+My experience includes working with different programming languages, databases, frameworks, and development tools, with a strong interest in backend engineering, software architecture, system integration, and scalable applications.
 
-## Technologies
+Currently pursuing a Bachelor's degree in Software Engineering at Estácio, continuously improving my technical skills and exploring new technologies.
 
-- **Languages:** PHP, Kotlin, Java, JavaScript, TypeScript, Python
-- **Backend:** REST APIs, Object-Oriented Programming, Software Architecture
-- **Databases:** MySQL, PostgreSQL, SQL, Redis, Firebase
-- **Frameworks:** React, Next.js, Jetpack Compose
-- **Tools & Platforms:** Git, Android Studio, Gradle, Vercel
+---
 
-## Experience
+## About Me
 
-### Backend Developer | PHP & PocketMine-MP
-**Jan 2022 – Present**
+- 💻 Software Developer since 2020.
+- 🎓 Software Engineering student at Estácio.
+- ⚙️ Interested in Backend Engineering, Full Stack Development, and Software Architecture.
+- 🔌 Experience building backend systems, REST APIs, and system integrations.
+- 🗄️ Experience working with relational and non-relational databases.
+- 🚀 Always learning, building projects, and exploring new technologies.
+- 🌎 Open to remote opportunities and international collaboration.
 
-- Develop backend systems and APIs using PHP and PocketMine-MP.
-- Design and integrate database solutions using MySQL and Redis.
-- Implement data migrations, transformations, and synchronization between systems.
-- Build modular, object-oriented applications focused on maintainability and scalability.
-- Optimize database queries and server-side processes for better performance.
-- Automate workflows and integrate independent systems.
+---
 
-## Projects
+## Tech Stack
 
-### Entrevista+ | Android & Web Platform
-**September 2026**
+### Programming Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-- Developing a platform to help organizational psychologists manage interview schedules.
-- Building an Android application with Kotlin, Jetpack Compose, and Firebase.
-- Developing a web platform with Next.js, React, TypeScript, and Firebase.
-- Deploying the web application through Vercel and supporting iOS access through a Progressive Web App (PWA).
+### Backend & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-## Education
+### Frontend & Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
-### Software Engineering — Estácio
-Bachelor's Degree | 2026 – 2030
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Tools & Infrastructure
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
+---
+
+## Featured Projects
+
+### 🎮 Solo Leveling Dark
+A Minecraft Bedrock server project built with PocketMine-MP.
+
+- Backend development using PHP.
+- Modular systems and object-oriented programming.
+- Custom gameplay mechanics and APIs.
+- Database integration and data management.
+- Redis integration for real-time data communication.
+- Custom items, player attributes, quests, and progression systems.
+
+### 📱 Entrevista+
+An application and web platform developed to support the management of interview scheduling for organizational psychologists.
+
+- Android development with Kotlin and Jetpack Compose.
+- Web development with React, Next.js, and TypeScript.
+- Firebase integration and data persistence.
+- Web deployment with Vercel.
+- Progressive Web App support.
+
+---
 
 ## Areas of Interest
 
-Backend Development · Full Stack Development · REST APIs · Software Architecture · Database Design · System Integration · Performance Optimization
+- Backend Development
+- Full Stack Development
+- REST API Design
+- Database Modeling
+- Software Architecture
+- System Integration
+- Application Security
+- Performance Optimization
+- Cloud Computing
+- Scalable Software Systems
 
-## Contact
+---
 
-- **GitHub:** [RaelRibeiro](https://github.com/RaelRibeiro)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+## Education
+
+**Bachelor's Degree in Software Engineering**  
+Estácio | 2026 – 2030
+
+---
+
+## Languages
+
+- Portuguese — Native
+- English — Intermediate (B2)
+
+---
+
+## Let's Connect
+
+I'm always interested in learning, collaborating on interesting projects, and connecting with other developers.
+
+Feel free to explore my repositories and reach out!
+
