@@ -68,16 +68,6 @@ Currently pursuing a Bachelor's degree in Software Engineering at Estácio, cont
 
 ## Featured Projects
 
-### 🎮 Solo Leveling Dark
-A Minecraft Bedrock server project built with PocketMine-MP.
-
-- Backend development using PHP.
-- Modular systems and object-oriented programming.
-- Custom gameplay mechanics and APIs.
-- Database integration and data management.
-- Redis integration for real-time data communication.
-- Custom items, player attributes, quests, and progression systems.
-
 ### 📱 Entrevista+
 An application and web platform developed to support the management of interview scheduling for organizational psychologists.
 
@@ -105,6 +95,9 @@ An application and web platform developed to support the management of interview
 ---
 
 ## Education
+
+**Technical Degree in Information Technology**  
+Estácio | 2023 – 2025
 
 **Bachelor's Degree in Software Engineering**  
 Estácio | 2026 – 2030
